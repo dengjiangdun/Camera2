@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/djd/Documents/codes/Camera21/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-large-v4/values-large-v4.xml",
+            "map": [
+                {
+                    "source": "/home/djd/Documents/codes/Camera21/app/src/main/res/values-large/filtershow_values.xml",
+                    "from": {
+                        "startLines": "18,21,24,30,27",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "731,815,908,1100,1004",
+                        "endColumns": "47,53,56,52,56",
+                        "endOffsets": "774,864,960,1148,1056"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,103,157,214,267",
+                        "endColumns": "47,53,56,52,56",
+                        "endOffsets": "98,152,209,262,319"
+                    }
+                },
+                {
+                    "source": "/home/djd/Documents/codes/Camera21/app/src/main/res/values-large/dimens.xml",
+                    "from": {
+                        "startLines": "20,19,16,18,17",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "1037,950,687,857,780",
+                        "endColumns": "92,86,92,92,76",
+                        "endOffsets": "1125,1032,775,945,852"
+                    },
+                    "to": {
+                        "startLines": "7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "324,417,504,597,690",
+                        "endColumns": "92,86,92,92,76",
+                        "endOffsets": "412,499,592,685,762"
+                    }
+                }
+            ]
+        }
+    ]
+}

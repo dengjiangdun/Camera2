@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/djd/Documents/codes/Camera21/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml",
+            "map": [
+                {
+                    "source": "/home/djd/Documents/codes/Camera21/app/src/main/res/values-v14/styles.xml",
+                    "from": {
+                        "startLines": "21,17,26,24",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "942,687,1172,1085",
+                        "endLines": "23,20,27,25",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "1080,937,1251,1167"
+                    },
+                    "to": {
+                        "startLines": "2,5,9,11",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,198,453,537",
+                        "endLines": "4,8,10,12",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "193,448,532,619"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/djd/Documents/codes/Camera21/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml",
+            "map": [
+                {
+                    "source": "/home/djd/Documents/codes/Camera21/app/src/main/res/values-v21/arrays.xml",
+                    "from": {
+                        "startLines": "18",
+                        "startColumns": "4",
+                        "startOffsets": "679",
+                        "endLines": "26",
+                        "endColumns": "12",
+                        "endOffsets": "1209"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "10",
+                        "endColumns": "12",
+                        "endOffsets": "585"
+                    }
+                },
+                {
+                    "source": "/home/djd/Documents/codes/Camera21/app/src/main/res/values-v21/styles.xml",
+                    "from": {
+                        "startLines": "35,54,46,19,41",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "1794,2823,2363,783,2118",
+                        "endLines": "39,59,52,33,44",
+                        "endColumns": "12,12,12,12,12",
+                        "endOffsets": "2112,3117,2817,1788,2357"
+                    },
+                    "to": {
+                        "startLines": "11,16,22,29,44",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "590,913,1212,1671,2681",
+                        "endLines": "15,21,28,43,47",
+                        "endColumns": "12,12,12,12,12",
+                        "endOffsets": "908,1207,1666,2676,2920"
+                    }
+                }
+            ]
+        }
+    ]
+}
